@@ -15,7 +15,7 @@ I'm a first-year Computer Science student at the National and Kapodistrian Unive
 ### 🔭 Current Focus
 - 📚 Learning the fundamentals of **Algorithms & Data Structures**.
 - 🐧 Getting comfortable with the **Linux** environment.
-- 📖 Working on projects assigned by the University
+- 📖 Working on **projects** assigned by the **University**.
 
 ---
 
